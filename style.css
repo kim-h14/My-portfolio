@@ -1,18 +1,27 @@
-.title {
+.container-fluid {
+  background-color: #88AB8E;
+  display: grid;
+}
+
+.top-title {
   font-family: 'Kalnia', serif;
+  font-size: larger;
+  color: #F2F1EB;
 }
 .portfolio {
   font-family: 'Quicksand', sans-serif;
   text-transform: uppercase;
+  color: #F2F1EB;
 }
 
-.para {
+.intro-para {
   font-family: 'Quicksand', sans-serif;
+  color: #F2F1EB;
 }
 
-.top-container {
-  background-color: #88AB8E;
-  margin: 0%;
+
+.title {
+  font-family: 'Kalnia', serif;
 }
 
 .middle-container {
