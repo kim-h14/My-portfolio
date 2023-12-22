@@ -1,0 +1,21 @@
+.title {
+  font-family: 'Kalnia', serif;
+}
+.portfolio {
+  font-family: 'Quicksand', sans-serif;
+  text-transform: uppercase;
+}
+
+.para {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.top-container {
+  background-color: #88AB8E;
+  margin: 0%;
+}
+
+.middle-container {
+  background-color: #F2F1EB;
+  margin: 0%;
+}
